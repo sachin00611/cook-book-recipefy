@@ -30,7 +30,7 @@ To use this application, you will need [Node.js](https://nodejs.org/) installed 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pusakamanggala/cook-recipe-web-app.git
+get clone https://github.com/sachin00611/cook-book-recipefy.git
 cd cook-recipe-web-app
 ```
 
@@ -43,3 +43,4 @@ npm install
 npm start
 ```
 This will start the development server and open the application in your default browser
+
